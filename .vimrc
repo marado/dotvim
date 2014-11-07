@@ -1,8 +1,9 @@
 " .vimrc
 "
-" By: Marcos Marado - http://mindboosternoori.blogspot.com
-" Last Updated: 2012-02-06
-" Notes: some stuff inspired by cog's .vimrc ( http://jose-castro.org/ )
+" By: Marcos Marado
+" URL: https://github.com/marado/dotvim/
+" Last Updated: 2014-11-07
+" Notes: some stuff inspired by cog's .vimrc ( https://github.com/cog/ )
 
 """ SETTINGS
 
