@@ -2,7 +2,6 @@
 "
 " By: Marcos Marado
 " URL: https://github.com/marado/dotvim/
-" Last Updated: 2014-11-07
 " Notes: some stuff inspired by cog's .vimrc ( https://github.com/cog/ )
 
 """ SETTINGS
