@@ -6,7 +6,7 @@ To "install", simply:
 ```
 cp .vimrc ~
 cp .gvimrc ~
-cp -R .vim/* ~/.vim/
+mkdir ~/.vim ; cp -R .vim/* ~/.vim/
 ```
 
 Notes:
