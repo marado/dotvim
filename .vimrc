@@ -185,8 +185,8 @@ au BufNewFile,BufRead *.mas set ft=mason
 au BufNewFile,BufRead *.mc set ft=mason
 
 " HTMLize
-so $HOME/.vim/html_iso_8859_portugues.vim
-so $HOME/.vim/html_utf8_portugues.vim
+" so $HOME/.vim/html_iso_8859_portugues.vim
+" so $HOME/.vim/html_utf8_portugues.vim
 
 " syntastic
 execute pathogen#infect()
