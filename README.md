@@ -19,3 +19,5 @@ Notes:
   [sleuth](https://github.com/tpope/vim-sleuth) which will make vim
   automagically enter a TAB when editing a TAB-using file, and a space when
   editing a space-using file.
+* If you're a git user, installing
+  [fugitive](https://github.com/tpope/vim-fugitive) will make your life better.
