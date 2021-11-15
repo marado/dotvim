@@ -181,10 +181,10 @@ nnoremap <silent> ;t :%!perltidy -q<cr>
 vnoremap <silent> ;t :!perltidy -q<cr>
 
 
-" Mason code is now hilighted
-au syntax mason so /usr/share/vim/vim63/syntax/mason.vim
-au BufNewFile,BufRead *.mas set ft=mason
-au BufNewFile,BufRead *.mc set ft=mason
+" " Mason code is now highlighted
+" au syntax mason so /usr/share/vim/vim63/syntax/mason.vim
+" au BufNewFile,BufRead *.mas set ft=mason
+" au BufNewFile,BufRead *.mc set ft=mason
 
 " HTMLize
 " so $HOME/.vim/html_iso_8859_portugues.vim
