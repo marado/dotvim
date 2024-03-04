@@ -22,9 +22,6 @@ if filereadable( "/etc/vim/langrc/" . $LANG . ".vim" )
    exe "so " . "/etc/vim/langrc/" . $LANG . ".vim"
 endif
 
-" You can also specify a different font, overriding the default font and the
-" one from the hooks above:
-" set guifont=-misc-fixed-medium-r-normal--14-130-75-75-c-70-iso8859-1
 set guifont=Monospace\ 14
 
 if filereadable("/etc/vim/gvimrc.local")

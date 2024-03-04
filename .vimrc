@@ -40,6 +40,7 @@ syntax on
 highlight Comment        guifg=#80a0ff ctermfg=darkgreen
 highlight Search         term=reverse   ctermfg=white   ctermbg=LightGreen
 set hls
+colorscheme industry
 
 """ OVERRIDES
 
@@ -194,5 +195,3 @@ vnoremap <silent> ;t :!perltidy -q<cr>
 execute pathogen#infect()
 let g:syntastic_sh_checkers = ['shellcheck', 'checkbashisms', 'sh']
 let g:syntastic_sh_shellcheck_args="-x"
-
-colorscheme industry
