@@ -194,3 +194,5 @@ vnoremap <silent> ;t :!perltidy -q<cr>
 execute pathogen#infect()
 let g:syntastic_sh_checkers = ['shellcheck', 'checkbashisms', 'sh']
 let g:syntastic_sh_shellcheck_args="-x"
+
+colorscheme industry
